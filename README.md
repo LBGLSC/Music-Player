@@ -1,4 +1,4 @@
-# Music-Player
+# Music-Player（GEC6818-Mplayer）
 rooike creation
 
 1.创建一个文件夹存放MP3格式音乐和与其对应的BMP格式的专辑封面，二者名字应该一致
