@@ -1,6 +1,6 @@
 #include "music.h"
 
-#define FIFO_PATH "./music.fifo"
+#define FIFO_PATH "/music.fifo"
 
 Bihead *find(const char *dirname)//寻找目录下音乐文件
 {
